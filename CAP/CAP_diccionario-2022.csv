@@ -1,0 +1,114 @@
+Variable,Posición,Etiqueta,Nivel de medición,Rol,Ancho de columna,Alineación,Formato de impresión,Formato de grabación
+Response_ID,1,Response ID,Nominal,Entrada,12,Izquierda,F8,F8
+Area,2,<ninguno>,Nominal,Entrada,14,Derecha,F8.2,F8.2
+Nivel_educ_en_3,3,<ninguno>,Nominal,Entrada,24,Derecha,F8.2,F8.2
+Q2,4,"¿Para comenzar, podría decirme su edad?",Nominal,Entrada,8,Izquierda,F8,F8
+Q3,5,RANGO DE EDAD:,Nominal,Entrada,15,Izquierda,F8,F8
+Q4,6,Es...,Nominal,Entrada,8,Izquierda,F8,F8
+Q5,7,¿En qué departamento vive?,Nominal,Entrada,8,Izquierda,F8,F8
+Q6,8,¿Vive en la capital de ${Q2} o en otra localidad?,Nominal,Entrada,8,Izquierda,F8,F8
+Q6_O,9,¿Vive en la capital de ${Q2} o en otra localidad? - Other,Nominal,Entrada,8,Izquierda,A500,A500
+Q10,10,¿Cuál es el máximo nivel educativo cursado por usted?[LEER OPCIONES],Nominal,Entrada,35,Izquierda,F8,F8
+Q12,11,"¿Ha usado internet el último mes, aunque sea esporádicamente, desde cualquier lugar y dispositivo?",Nominal,Entrada,8,Izquierda,F8,F8
+Q13,12,"Solo para verificar, ¿usted utiliza Whatsapp o chatea por alguna red social?",Nominal,Entrada,8,Izquierda,F8,F8
+Q14,13,Teniendo en cuenta que también se incluye el uso del WhatsApp ¿Con qué frecuencia utilizó internet en el último mes,Nominal,Entrada,17,Izquierda,F8,F8
+Q15,14,"En el último mes, ¿utilizó alguna computadora (PC, laptop) para conectarse a internet? ENCUESTADOR: Ceibal, magalla",Nominal,Entrada,8,Izquierda,F8,F8
+Q17,15,"¿Sabe si existe la posibilidad de hacer trámites públicos por internet? Por ejemplo: sacar número para la cédula,",Nominal,Entrada,8,Izquierda,F8,F8
+Q18,16,"Si usted necesita información para realizar un trámite público, prefiere...[LEER OPCIONES]",Nominal,Entrada,27,Izquierda,F8,F8
+Q18_O,17,"Si usted necesita información para realizar un trámite público, prefiere...[LEER OPCIONES] - Other",Nominal,Entrada,36,Izquierda,A500,A500
+Q19R1,18,Yendo personalmente,Nominal,Entrada,8,Izquierda,F8,F8
+Q19R2,19,Por teléfono,Nominal,Entrada,8,Izquierda,F8,F8
+Q19R3,20,"Por internet Puede ser a través de la web, de una app o de WhatsApp",Nominal,Entrada,8,Izquierda,F8,F8
+Q20,21,"El último trámite presencial que realizó con el Estado, lo hizo… [LEER OPCIONES]",Nominal,Entrada,23,Izquierda,F8,F8
+Q20_O,22,"El último trámite presencial que realizó con el Estado, lo hizo… [LEER OPCIONES] - Other",Nominal,Entrada,9,Izquierda,A500,A500
+Q21,23,¿Por qué motivos no realizó ese trámite a través de internet?,Nominal,Entrada,18,Izquierda,A10000,A10000
+Q22,24,Pensando en este último trámite que realizó con el Estado de forma presencial… ¿Cuán satisfecho o insatisfecho dir,Nominal,Entrada,22,Izquierda,F8,F8
+Q23,25,"En cuanto al tramite que mencionó que hizo por internet,: ¿A qué organismo público correspondía ese trámite?[NO LE",Nominal,Entrada,8,Izquierda,F8,F8
+Q23D,26,"En cuanto al tramite que mencionó que hizo por internet,: ¿A qué organismo público correspondía ese trámite?[NO LEER OPC",Nominal,Entrada,41,Izquierda,A500,A500
+Q24,27,¿A través de qué medio inició o realizó ese trámite?[LEER OPCIONES],Nominal,Entrada,17,Izquierda,F8,F8
+Q24_O,28,¿A través de qué medio inició o realizó ese trámite?[LEER OPCIONES] - Other,Nominal,Entrada,24,Izquierda,A500,A500
+Q25,29,¿Qué tan difícil le resultó iniciar o realizar el trámite por esa vía?[LEER OPCIONES],Nominal,Entrada,8,Izquierda,F8,F8
+Q26,30,¿Repetiría la experiencia? [LEER OPCIONES],Nominal,Entrada,23,Izquierda,F8,F8
+Q27,31,"El último trámite por internet que realizó con el Estado, lo hizo… [LEER OPCIONES]",Nominal,Entrada,16,Izquierda,F8,F8
+Q27_O,32,"El último trámite por internet que realizó con el Estado, lo hizo… [LEER OPCIONES] - Other",Nominal,Entrada,29,Izquierda,A500,A500
+Q28,33,Pensando en este último trámite que realizó con el Estado a través de internet… ¿Cuán satisfecho o insatisfecho se,Nominal,Entrada,8,Izquierda,F8,F8
+Q29,34,"En los últimos 12 meses… ¿ha visitado la página web de algún organismo público, ministerio, intendencia o empresa",Nominal,Entrada,8,Izquierda,F8,F8
+Q30,35,"La última vez que buscó información, usted... [LEER OPCIONES]",Nominal,Entrada,30,Izquierda,F8,F8
+Q31R1,36,"Recibir o descargar facturas de servicios públicos como ANTEL, UTE, u OSE",Nominal,Entrada,8,Izquierda,F8,F8
+Q31R2,37,"Descargar formularios oficiales, de organismos como BPS, DGI Intendencias u otros",Nominal,Entrada,8,Izquierda,F8,F8
+Q31R3,38,"Llenar y enviar formularios oficiales en línea, como BPS, DGI, Intendencias u otros",Nominal,Entrada,8,Izquierda,F8,F8
+Q31R4,39,"Agendar hora o reservar número para realizar trámites (como renovación de cédula, licencia de conducir, etc.)",Nominal,Entrada,8,Izquierda,F8,F8
+Q31R5,40,"Solicitar certificados en línea (BPS, DGI Intendencias u otros)",Nominal,Entrada,8,Izquierda,F8,F8
+Q31R6,41,"Pagar por Internet trámites o servicios del Estado, como patentes, multas, DGI, BPS, ANTEL, UTE u OSE",Nominal,Entrada,8,Izquierda,F8,F8
+Q31R7,42,Realizar preguntas o reclamos en sitios web o redes sociales estatales,Nominal,Entrada,8,Izquierda,F8,F8
+Q32,43,¿Conoce usted la posibilidad de realizar el seguimiento de los trámites por internet? ,Nominal,Entrada,8,Izquierda,F8,F8
+Q33,44,¿Lo ha utilizado alguna vez? ,Nominal,Entrada,8,Izquierda,F8,F8
+Q34,45,¿Conoce el Portal Gub.uy del Estado Uruguayo?,Nominal,Entrada,8,Izquierda,F8,F8
+Q35,46,¿Cuándo fue la última vez que accedió a este portal? [LEER OPCIONES] ,Nominal,Entrada,25,Izquierda,F8,F8
+Q36,47,¿Conoce el sitio de trámites y servicios del Estado?,Nominal,Entrada,8,Izquierda,F8,F8
+Q37,48,¿Cuándo fue la última vez que accedió a este portal?[LEER OPCIONES],Nominal,Entrada,23,Izquierda,F8,F8
+Q38R1,49,"Cédula con chip (la nueva, de plástico blanco)",Nominal,Entrada,8,Izquierda,F8,F8
+Q38R2,50,"ID Digital, de Abitab",Nominal,Entrada,8,Izquierda,F8,F8
+Q38R3,51,Usuario gub.uy,Nominal,Entrada,8,Izquierda,F8,F8
+Q38R4,52,"Tu ID, de Antel",Nominal,Entrada,8,Izquierda,F8,F8
+Q39R1,53,Autenticarse o iniciar sesión en un sitio web estatal,Nominal,Entrada,8,Izquierda,F8,F8
+Q39R2,54,Firmar digitalmente en un trámite público,Nominal,Entrada,8,Izquierda,F8,F8
+Q39R3,55,Firmar un documento digitalmente,Nominal,Entrada,8,Izquierda,F8,F8
+Q39R4,56,En el aeropuerto para el ingreso al país,Nominal,Entrada,8,Izquierda,F8,F8
+Q41R1,57,¿Perdió información debido a un virus u otra infección informática?,Nominal,Entrada,8,Izquierda,F8,F8
+Q41R2,58,"¿Violaron su privacidad por ejemplo, de fotos o videos o abusaron de información personal que suministró?",Nominal,Entrada,8,Izquierda,F8,F8
+Q41R3,59,"Le hackearon su correo electrónico o sus cuentas en redes sociales?, es decir, ¿alguien se hizo pasar por usted o",Nominal,Entrada,8,Izquierda,F8,F8
+Q41R4,60,"¿Le secuestraron archivos?, o sea, ¿alguien le bloqueó su computadora y pidió dinero a cambio?",Nominal,Entrada,8,Izquierda,F8,F8
+Q41R5,61,¿Lo acosaron u hostigaron por internet por ejemplo ciber-bullying o chantaje?,Nominal,Entrada,8,Izquierda,F8,F8
+Q41R6,62,¿Perdió dinero por fraude de tarjetas de crédito por Internet? No importa si recuperó o no el dinero,Nominal,Entrada,8,Izquierda,F8,F8
+Q41R7,63,"¿Dejó de comprar algún producto, servicio o contenido por internet por preocupaciones en temas de seguridad?",Nominal,Entrada,8,Izquierda,F8,F8
+Q42,64,¿Cómo se enteró de que le habían hackeado sus cuentas en redes sociales o correo electrónico? [LEER LÍNEAS],Nominal,Entrada,15,Izquierda,F8,F8
+Q42_O,65,¿Cómo se enteró de que le habían hackeado sus cuentas en redes sociales o correo electrónico? [LEER LÍNEAS] - Other,Nominal,Entrada,43,Izquierda,A500,A500
+Q43,66,"En los últimos 3 meses ¿ha cambiado alguna de las contraseñas de correo electrónico, redes sociales, banca en líne",Nominal,Entrada,8,Izquierda,F8,F8
+Q44R1,67,¿Utiliza algún software que lo protege de ver publicidad en línea?,Nominal,Entrada,8,Izquierda,F8,F8
+Q44R2,68,¿Utiliza software que evita que sus actividades en línea sean monitoreadas?,Nominal,Entrada,8,Izquierda,F8,F8
+Q44R3,69,¿Evita ciertos sitios web porque le preocupa que sus actividades sean monitoreadas?,Nominal,Entrada,8,Izquierda,F8,F8
+Q45,70,"¿Ha cambiado alguna vez la configuración de privacidad de su navegador, por ejemplo deshabilitar servicios de auto",Nominal,Entrada,8,Izquierda,F8,F8
+Q46,71,"¿Ha cambiado alguna vez la configuración de privacidad en sus cuentas en redes sociales, como por ejemplo quiénes",Nominal,Entrada,8,Izquierda,F8,F8
+Q47,72,"¿Utiliza autenticación en dos pasos para correo electrónico, redes sociales, banca en línea o sitio de compras? (E",Nominal,Entrada,8,Izquierda,F8,F8
+Q48,73,"La computadora que usted utiliza principalmente, es: ",Nominal,Entrada,20,Izquierda,F8,F8
+Q48_O,74,"La computadora que usted utiliza principalmente, es:  - Other",Nominal,Entrada,5,Izquierda,A500,A500
+Q49,75,"En esta computadora que usted comparte con otras personas, ¿Cada persona tiene un usuario o utilizan todos el mism",Nominal,Entrada,8,Izquierda,F8,F8
+Q49_O,76,"En esta computadora que usted comparte con otras personas, ¿Cada persona tiene un usuario o utilizan todos el mismo usua",Nominal,Entrada,12,Izquierda,A500,A500
+Q50,77,"Esta computadora que usted utiliza principalmente, ¿Tiene antivirus? ",Nominal,Entrada,8,Izquierda,F8,F8
+Q51,78,"¿Con qué frecuencia realiza actualizaciones en su computadora, ya sea de software, antivirus o cualquier otro prog",Nominal,Entrada,8,Izquierda,F8,F8
+Q52,79,"El teléfono celular que usted utiliza habitualmente, ¿tiene antivirus? ",Nominal,Entrada,26,Izquierda,F8,F8
+Q54,80,¿Alguna vez ha realizado pagos por internet? Hablamos únicamente de compras que usted pagó desde su computadora o,Nominal,Entrada,15,Izquierda,F8,F8
+Q55,81,¿Alguna vez ha realizado transferencias o pagos desde su cuenta bancaria por internet?,Nominal,Entrada,8,Izquierda,F8,F8
+Q56A1,82,"¿Cuáles de los siguientes dispositivos ha utilizado para realizar pagos o transferencias en línea? [LEER OPCIONES, R",Nominal,Entrada,8,Izquierda,F8,F8
+Q56A2,83,"¿Cuáles de los siguientes dispositivos ha utilizado para realizar pagos o transferencias en línea? [LEER OPCIONES, R",Nominal,Entrada,8,Izquierda,F8,F8
+Q56A3,84,"¿Cuáles de los siguientes dispositivos ha utilizado para realizar pagos o transferencias en línea? [LEER OPCIONES, R",Nominal,Entrada,8,Izquierda,F8,F8
+Q56A4,85,"¿Cuáles de los siguientes dispositivos ha utilizado para realizar pagos o transferencias en línea? [LEER OPCIONES, R",Nominal,Entrada,8,Izquierda,F8,F8
+Q56A5,86,"¿Cuáles de los siguientes dispositivos ha utilizado para realizar pagos o transferencias en línea? [LEER OPCIONES, R",Nominal,Entrada,8,Izquierda,F8,F8
+Q56_O,87,"¿Cuáles de los siguientes dispositivos ha utilizado para realizar pagos o transferencias en línea? [LEER OPCIONES, RESPU",Nominal,Entrada,24,Izquierda,A500,A500
+Q57,88,"Cuando realiza pagos o transferencias desde el celular, ¿Prefiere utilizar una aplicación o desde una página web? ",Nominal,Entrada,8,Izquierda,F8,F8
+Q58,89,Sin importar si lo ha hecho antes o no... ¿Cuánta confianza se tiene en usted mismo para hacer pagos o transaccion,Nominal,Entrada,8,Izquierda,F8,F8
+Q59,90,¿Y cuánta confianza se tiene en usted mismo para hacer trámites públicos por internet? Diría que...[LEER OPCIONES],Nominal,Entrada,8,Izquierda,F8,F8
+Q61,91,¿Sabe si existe alguna normativa que garantice el acceso de las personas a la información pública que tiene y prod,Nominal,Entrada,8,Izquierda,F8,F8
+Q62,92,En caso de necesitarlo... ¿Sabría cómo realizar una solicitud de información pública? ,Nominal,Entrada,8,Izquierda,F8,F8
+Q63,93,¿Ha realizado alguna vez una solicitud de acceso a información pública? ,Nominal,Entrada,8,Izquierda,F8,F8
+Q64,94,¿Por qué medio realizó su solicitud? ,Nominal,Entrada,12,Izquierda,F8,F8
+Q65,95,"A la hora de realizar la solicitud, ¿Sintió algún tipo de discriminación? ¿De qué tipo? [NO LEER OPCIONES, CODIFIC",Nominal,Entrada,14,Izquierda,F8,F8
+Q65_O,96,"A la hora de realizar la solicitud, ¿Sintió algún tipo de discriminación? ¿De qué tipo? [NO LEER OPCIONES, CODIFICAR RES",Nominal,Entrada,3,Izquierda,A500,A500
+Q66,97,"En esa ocasión, ¿respondieron a su solicitud? ",Nominal,Entrada,8,Izquierda,F8,F8
+Q67,98,Diría que la información que le brindaron se ajustó…[LEER OPCIONES],Nominal,Entrada,23,Izquierda,F8,F8
+Q68,99,¿Considera que en Uruguay el acceso a información pública se cumple en la práctica? Diría que...[LEER OPCIONES],Nominal,Entrada,8,Izquierda,F8,F8
+Q69,100,¿Sabe si existe alguna normativa que impida que otras personas o empresas usen sus datos personales sin su autoriz,Nominal,Entrada,8,Izquierda,F8,F8
+Q70,101,"¿Cuánto le preocupa que otras personas o empresas utilicen sus datos personales, sin su autorización? [LEER OPCION",Nominal,Entrada,8,Izquierda,F8,F8
+Q71,102,"¿Solicitó alguna vez que eliminaran o modificaran sus datos en alguna aplicación o sitio web? Por ejemplo, solicit",Nominal,Entrada,8,Izquierda,F8,F8
+Q72,103,En caso de necesitarlo... ¿sabría cómo realizar una solicitud de este tipo?,Nominal,Entrada,8,Izquierda,F8,F8
+Q73,104,¿Considera que en Uruguay la protección de los datos personales se cumple en la práctica? Diría que...[LEER OPCION,Nominal,Entrada,8,Izquierda,F8,F8
+Q76,105,"Sin considerar los quehaceres del hogar, ¿trabajó usted la semana pasada?",Nominal,Entrada,8,Izquierda,F8,F8
+Q77R1,106,Concurrió a su lugar de trabajo,Nominal,Entrada,8,Izquierda,F8,F8
+Q77R2,107,"Trabajó desde su hogar, utilizando internet",Nominal,Entrada,8,Izquierda,F8,F8
+Q77R3,108,"Trabajó desde su hogar, sin necesidad de utilizar internet",Nominal,Entrada,8,Izquierda,F8,F8
+Q78R1,109,"En general, me gusta realizar mi trabajo desde mi hogar",Nominal,Entrada,8,Izquierda,F8,F8
+Q78R2,110,Cuento con el equipamiento que necesito para realizar mi trabajo desde mi hogar,Nominal,Entrada,8,Izquierda,F8,F8
+Q78R3,111,La conexión a internet con la que cuento en mi hogar es buena para realizar mi trabajo,Nominal,Entrada,8,Izquierda,F8,F8
+Q78R4,112,Cuento con el espacio y ambiente adecuados para realizar el trabajo desde mi hogar,Nominal,Entrada,8,Izquierda,F8,F8
+Q80,113,¿Usted nos habilita a llamarlo en algún momento para corroborar algunos datos en caso de ser necesario?,Nominal,Entrada,8,Izquierda,F8,F8

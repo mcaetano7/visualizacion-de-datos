@@ -1,0 +1,459 @@
+Variable,Valor,Etiqueta
+Area,"1,00",Montevideo más AM
+Area,"2,00",Capitales + San Carlos
+Area,"3,00","Menos de 20,000 hab"
+Nivel_educ_en_3,"1,00",Hasta ciclo básico incompleto
+Nivel_educ_en_3,"2,00",Hasta secundaria superior completa
+Nivel_educ_en_3,"3,00",Hasta terciaria incompleta o más
+Q2,1,Menor de 18 (TERMINAR ENCUESTA)
+Q2,2,18
+Q2,3,19
+Q2,4,20
+Q2,5,21
+Q2,6,22
+Q2,7,23
+Q2,8,24
+Q2,9,25
+Q2,10,26
+Q2,11,27
+Q2,12,28
+Q2,13,29
+Q2,14,30
+Q2,15,31
+Q2,16,32
+Q2,17,33
+Q2,18,34
+Q2,19,35
+Q2,20,36
+Q2,21,37
+Q2,22,38
+Q2,23,39
+Q2,24,40
+Q2,25,41
+Q2,26,42
+Q2,27,43
+Q2,28,44
+Q2,29,45
+Q2,30,46
+Q2,31,47
+Q2,32,48
+Q2,33,49
+Q2,34,50
+Q2,35,51
+Q2,36,52
+Q2,37,53
+Q2,38,54
+Q2,39,55
+Q2,40,56
+Q2,41,57
+Q2,42,58
+Q2,43,59
+Q2,44,60
+Q2,45,61
+Q2,46,62
+Q2,47,63
+Q2,48,64
+Q2,49,65
+Q2,50,66
+Q2,51,67
+Q2,52,68
+Q2,53,69
+Q2,54,70
+Q2,55,71
+Q2,56,72
+Q2,57,73
+Q2,58,74
+Q2,59,75
+Q2,60,76
+Q2,61,77
+Q2,62,78
+Q2,63,79
+Q2,64,80
+Q2,65,81
+Q2,66,82
+Q2,67,83
+Q2,68,84
+Q2,69,85
+Q2,70,86
+Q2,71,87
+Q2,72,88
+Q2,73,89
+Q2,74,90
+Q2,75,91
+Q2,76,92
+Q2,77,93
+Q2,78,94
+Q2,79,95
+Q2,80,96
+Q2,81,97
+Q2,82,98
+Q2,83,99
+Q2,84,100 o más
+Q3,1,18 a 29
+Q3,2,30 a 59
+Q3,3,60 años y más
+Q4,1,Hombre
+Q4,2,Mujer
+Q4,3,Otros
+Q4,4,Ns/Nc [NO LEER]
+Q5,1,Artigas
+Q5,2,Cerro Largo
+Q5,3,Canelones
+Q5,4,Colonia
+Q5,5,Durazno
+Q5,6,Flores
+Q5,7,Florida
+Q5,8,Lavalleja
+Q5,9,Maldonado
+Q5,10,Montevideo
+Q5,11,Paysandú
+Q5,12,Río Negro
+Q5,13,Rivera
+Q5,14,Rocha
+Q5,15,Salto
+Q5,16,San José
+Q5,17,Soriano
+Q5,18,Tacuarembó
+Q5,19,Treinta y Tres
+Q6,1,En la capital
+Q6,2,Otra localidad
+Q6,3,Area metropolitana
+Q10,1,Primaria incompleta/Sin Instrucción
+Q10,2,Primaria completa
+Q10,3,Ciclo Básico Liceo o UTU incompleta
+Q10,4,Ciclo Básico Liceo o UTU Completo
+Q10,5,Bachillerato Incompleto (secundario o UTU)
+Q10,6,Bachillerato Completo (secundario o UTU)
+Q10,7,"Terciaria incompleta (Incluye Magisterio, Terciario no Unive"
+Q10,8,"Terciaria completa (Incluye Magisterio, Terciario no Univers"
+Q10,9,Ns/Nc [NO LEER]
+Q12,1,Sí
+Q12,2,No
+Q12,3,Ns/Nc [NO LEER]
+Q13,1,Sí
+Q13,2,No
+Q13,3,Ns/Nc [NO LEER]
+Q14,1,Todos los días
+Q14,2,Algunas veces a la semana 
+Q14,3,"Algunas veces al mes, pero no todas las semanas"
+Q14,4,Ns/Nc [NO LEER]
+Q15,1,Sí
+Q15,2,No
+Q15,3,Ns/Nc [NO LEER]
+Q17,1,"Sí, existe"
+Q17,2,No existe
+Q17,3,Ns/Nc [NO LEER]
+Q18,1,Informarse previamente por teléfono
+Q18,2,Informarse previamente por Internet
+Q18,3,Informarse con familiares o conocidos
+Q18,4,Ir directamente a la oficina pública y averiguar allí
+Q18,5,Ns/Nc [NO LEER]
+Q18,6,"Otros [Especificar, NO LEER]"
+Q19R1,1,Si
+Q19R1,2,No
+Q19R2,1,Si
+Q19R2,2,No
+Q19R3,1,Si
+Q19R3,2,No
+Q20,1,"Todo presencial, en una oficina pública"
+Q20,2,Una parte en internet y otra presencial
+Q20,3,Una parte por teléfono y otra presencial
+Q20,4,Ns/Nc [NO LEER]
+Q20,5,"Otro [Especificar, NO LEER]"
+Q22,1,Muy satisfecho
+Q22,2,Satisfecho
+Q22,3,Ni satisfecho ni insatisfecho
+Q22,4,Insatisfecho
+Q22,5,Muy insatisfecho
+Q22,6,Ns/Nc [NO LEER]
+Q23,1,Intendencia
+Q23,2,BPS
+Q23,3,DGI
+Q23,4,ASSE
+Q23,5,UTE
+Q23,6,OSE
+Q23,7,ANTEL
+Q23,8,Ministerio
+Q23,9,Otro
+Q23,10,Ns/Nc [NO LEER]
+Q24,1,Por WhatsApp
+Q24,2,Por la página web
+Q24,3,Por una aplicación
+Q24,4,Ns/Nc [NO LEER]
+Q24,5,Otro [Especificar]
+Q25,1,Muy fácil
+Q25,2,Bastante fácil
+Q25,3,Algo difícil
+Q25,4,Muy difícil
+Q25,5,Ns/Nc [NO LEER]
+Q26,1,Seguramente si
+Q26,2,Probablemente si
+Q26,3,No
+Q27,1,"Todo en línea, sin concurrir a una oficina pública"
+Q27,2,Una parte en línea y otra presencial
+Q27,3,Una parte en línea y otra por teléfono
+Q27,4,Ns/Nc [NO LEER]
+Q27,5,"Otro [Especificar, NO LEER]"
+Q28,1,Muy satisfecho
+Q28,2,Satisfecho
+Q28,3,Ni satisfecho ni insatisfecho
+Q28,4,Insatisfecho
+Q28,5,Muy insatisfecho
+Q28,6,Ns/Nc [NO LEER]
+Q29,1,Sí
+Q29,2,No
+Q29,3,Ns/Nc [NO LEER]
+Q30,1,Encontró la información y estaba correcta
+Q30,2,"Encontró la información, pero estaba incorrecta o incompleta"
+Q30,3,No encontró la información
+Q30,4,Ns/Nc [NO LEER]
+Q31R1,1,Sí
+Q31R1,2,No
+Q31R1,3,Ns/Nc [NO LEER]
+Q31R2,1,Sí
+Q31R2,2,No
+Q31R2,3,Ns/Nc [NO LEER]
+Q31R3,1,Sí
+Q31R3,2,No
+Q31R3,3,Ns/Nc [NO LEER]
+Q31R4,1,Sí
+Q31R4,2,No
+Q31R4,3,Ns/Nc [NO LEER]
+Q31R5,1,Sí
+Q31R5,2,No
+Q31R5,3,Ns/Nc [NO LEER]
+Q31R6,1,Sí
+Q31R6,2,No
+Q31R6,3,Ns/Nc [NO LEER]
+Q31R7,1,Sí
+Q31R7,2,No
+Q31R7,3,Ns/Nc [NO LEER]
+Q32,1,Sí
+Q32,2,No
+Q32,3,Ns/Nc [NO LEER]
+Q33,1,Sí
+Q33,2,No
+Q33,3,Ns/Nc [NO LEER]
+Q34,1,Sí
+Q34,2,No
+Q34,3,Ns/Nc [NO LEER]
+Q35,1,En el último mes
+Q35,2,"En el último año, pero no en el último mes"
+Q35,3,"Accedió alguna vez, pero no en el último año"
+Q35,4,Nunca accedió
+Q35,5,Ns/Nc [NO LEER]
+Q36,1,Sí
+Q36,2,No
+Q36,3,Ns/Nc [NO LEER]
+Q37,1,En el último mes
+Q37,2,"En el último año, pero no en el último mes"
+Q37,3,"Accedió alguna vez, pero no en el último año"
+Q37,4,Nunca accedió
+Q37,5,Ns/Nc [NO LEER]
+Q38R1,1,Sí
+Q38R1,2,No
+Q38R1,3,Ns/Nc [NO LEER]
+Q38R2,1,Sí
+Q38R2,2,No
+Q38R2,3,Ns/Nc [NO LEER]
+Q38R3,1,Sí
+Q38R3,2,No
+Q38R3,3,Ns/Nc [NO LEER]
+Q38R4,1,Sí
+Q38R4,2,No
+Q38R4,3,Ns/Nc [NO LEER]
+Q39R1,1,Sí
+Q39R1,2,No
+Q39R1,3,Ns/Nc [NO LEER]
+Q39R2,1,Sí
+Q39R2,2,No
+Q39R2,3,Ns/Nc [NO LEER]
+Q39R3,1,Sí
+Q39R3,2,No
+Q39R3,3,Ns/Nc [NO LEER]
+Q39R4,1,Sí
+Q39R4,2,No
+Q39R4,3,Ns/Nc [NO LEER]
+Q41R1,1,Sí
+Q41R1,2,No
+Q41R1,3,Ns/Nc [NO LEER]
+Q41R2,1,Sí
+Q41R2,2,No
+Q41R2,3,Ns/Nc [NO LEER]
+Q41R3,1,Sí
+Q41R3,2,No
+Q41R3,3,Ns/Nc [NO LEER]
+Q41R4,1,Sí
+Q41R4,2,No
+Q41R4,3,Ns/Nc [NO LEER]
+Q41R5,1,Sí
+Q41R5,2,No
+Q41R5,3,Ns/Nc [NO LEER]
+Q41R6,1,Sí
+Q41R6,2,No
+Q41R6,3,Ns/Nc [NO LEER]
+Q41R7,1,Sí
+Q41R7,2,No
+Q41R7,3,Ns/Nc [NO LEER]
+Q42,1,Recibí un correo de un proveedor de servicios
+Q42,2,Me avisaron mis familiares/amigos
+Q42,3,Ns/Nc [NO LEER]
+Q42,4,Otros [Especificar]
+Q43,1,Sí
+Q43,2,No
+Q43,3,Ns/Nc [NO LEER]
+Q44R1,1,Sí
+Q44R1,2,No
+Q44R1,3,Ns/Nc [NO LEER]
+Q44R2,1,Sí
+Q44R2,2,No
+Q44R2,3,Ns/Nc [NO LEER]
+Q44R3,1,Sí
+Q44R3,2,No
+Q44R3,3,Ns/Nc [NO LEER]
+Q45,1,Sí
+Q45,2,No
+Q45,3,Ns/Nc [NO LEER]
+Q46,1,Sí
+Q46,2,No
+Q46,3,Ns/Nc [NO LEER]
+Q47,1,"Si, en todos los que uso"
+Q47,2,"Si, utilizo en algunos"
+Q47,3,No utilizo
+Q47,4,Ns/Nc [NO LEER]
+Q48,1,De uso exclusivo por usted
+Q48,2,De uso compartido con otras personas
+Q48,3,Ns/Nc [NO LEER]
+Q48,4,Otro [Especificar]
+Q49,1,Cada persona tiene su usuario
+Q49,2,Utilizamos todos/as el mismo usuario
+Q49,3,Ns/Nc [NO LEER]
+Q49,4,Otro [Especificar]
+Q50,1,Sí
+Q50,2,No
+Q50,3,Ns/Nc [NO LEER]
+Q51,1,Diariamente
+Q51,2,Algunas veces a la semana
+Q51,3,"Algunas veces al mes, pero no todas las semanas"
+Q51,4,"Algunas veces al año, pero no todos los meses"
+Q51,5,Con menor frecuencia o nunca
+Q51,6,Ns/Nc [NO LEER]
+Q52,1,"Sí, venía instalado"
+Q52,2,"Si, lo instalé yo mismo"
+Q52,3,No tiene
+Q52,4,Ns/Nc [NO LEER]
+Q54,1,"Sí, he realizado"
+Q54,2,No he realizado
+Q54,3,Ns/Nc [NO LEER]
+Q55,1,Sí
+Q55,2,No
+Q55,3,Ns/Nc [NO LEER]
+Q56A1,1,Computadora
+Q56A2,1,Celular
+Q56A3,1,Tablet
+Q56A4,1,Ns/Nc [NO LEER]
+Q56A5,1,"Otro [Especificar, NO LEER]"
+Q57,1,Aplicación
+Q57,2,Página web
+Q57,3,No tengo preferencia
+Q57,4,Ambos (aplicación y navegador)
+Q57,5,Ns/Nc [NO LEER]
+Q58,1,Nada
+Q58,2,Poca
+Q58,3,Bastante
+Q58,4,Mucha
+Q58,5,Ns/Nc [NO LEER]
+Q59,1,Nada
+Q59,2,Poca
+Q59,3,Bastante
+Q59,4,Mucha
+Q59,5,Ns/Nc [NO LEER]
+Q61,1,"Sí, existe"
+Q61,2,No existe
+Q61,3,Ns/Nc [NO LEER]
+Q62,1,Sí
+Q62,2,No
+Q62,3,Ns/Nc [NO LEER]
+Q63,1,Sí
+Q63,2,No
+Q63,3,Ns/Nc [NO LEER]
+Q64,1,De forma presencial
+Q64,2,Por correo electrónico
+Q64,3,Formulario web
+Q65,1,No se sintió discriminado
+Q65,2,Por su género
+Q65,3,Por su condición social
+Q65,4,Por alguna discapacidad
+Q65,5,Por su raza
+Q65,6,Por su edad
+Q65,7,Por su simpatía política
+Q65,8,No sabe/ No contesta
+Q65,9,Otra (Especificar)
+Q66,1,Sí
+Q66,2,No
+Q66,3,Ns/Nc [NO LEER]
+Q67,1,Completamente a lo que solicitó
+Q67,2,Parcialmente a lo que solicitó
+Q67,3,No se ajustó a lo que solicitó
+Q67,4,Le denegaron la información
+Q67,5,Ns/Nc [NO LEER]
+Q68,1,Se cumple siempre
+Q68,2,Se cumple casi siempre
+Q68,3,No se cumple casi nunca
+Q68,4,No se cumple nunca
+Q68,5,Ns/Nc [NO LEER]
+Q69,1,"Sí, existe"
+Q69,2,No existe
+Q69,3,Ns/Nc [NO LEER]
+Q70,1,Me preocupa mucho
+Q70,2,Me preocupa poco
+Q70,3,No me preocupa nada
+Q70,4,Ns/Nc [NO LEER]
+Q71,1,Sí
+Q71,2,No
+Q71,3,Ns/Nc [NO LEER]
+Q72,1,Sí
+Q72,2,No
+Q72,3,Ns/Nc [NO LEER]
+Q73,1,Se cumple siempre
+Q73,2,Se cumple casi siempre
+Q73,3,No se cumple casi nunca
+Q73,4,No se cumple nunca
+Q73,5,Ns/Nc [NO LEER]
+Q76,1,Sí
+Q76,2,No
+Q76,3,Ns/Nc [NO LEER]
+Q77R1,1,Sí
+Q77R1,2,No
+Q77R1,3,Ns/Nc [NO LEER]
+Q77R2,1,Sí
+Q77R2,2,No
+Q77R2,3,Ns/Nc [NO LEER]
+Q77R3,1,Sí
+Q77R3,2,No
+Q77R3,3,Ns/Nc [NO LEER]
+Q78R1,1,Totalmente en desacuerdo
+Q78R1,2,En desacuerdo
+Q78R1,3,De acuerdo
+Q78R1,4,Totalmente de acuerdo
+Q78R1,5,Ns/Nc [NO LEER]
+Q78R2,1,Totalmente en desacuerdo
+Q78R2,2,En desacuerdo
+Q78R2,3,De acuerdo
+Q78R2,4,Totalmente de acuerdo
+Q78R2,5,Ns/Nc [NO LEER]
+Q78R3,1,Totalmente en desacuerdo
+Q78R3,2,En desacuerdo
+Q78R3,3,De acuerdo
+Q78R3,4,Totalmente de acuerdo
+Q78R3,5,Ns/Nc [NO LEER]
+Q78R4,1,Totalmente en desacuerdo
+Q78R4,2,En desacuerdo
+Q78R4,3,De acuerdo
+Q78R4,4,Totalmente de acuerdo
+Q78R4,5,Ns/Nc [NO LEER]
+Q80,1,Sí
+Q80,2,No
+Q80,3,Ns/Nc [NO LEER]
+Generico,,Ns/Nc significa No sabe / No contesta
+Generico,-1,No corresponde
